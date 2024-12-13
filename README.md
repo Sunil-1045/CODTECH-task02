@@ -45,3 +45,6 @@ Software
 Arduino IDE for programming.
 Cloud platforms like Firebase or Blynk for IoT integration.
 Mobile app frameworks (e.g., MIT App Inventor) for interface design.
+
+Output pic:
+![smart home](https://github.com/user-attachments/assets/b4f3ab2a-d231-40e0-91ca-3d36d8a7e589)
